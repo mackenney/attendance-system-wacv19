@@ -2,7 +2,7 @@
 
 This repository hosts the dataset and the code used in the paper.
 
-Download link (hosted in Google Drive): https://goo.gl/PRuDWT
+Mirror for the database (hosted in Google Drive): https://goo.gl/PRuDWT
 
 Domingo Mery,
 Ignacio Mackenney,
